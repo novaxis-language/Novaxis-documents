@@ -2,6 +2,10 @@
 
 Novaxis is a lightweight and versatile data configuration language designed for easy data manipulation and configuration. It combines the simplicity of TOML, the expressiveness of JSON, and the human-readability of YAML, making it an ideal choice for a wide range of applications.
 
+# Release Date
+
+Novaxis was officially released on 2023. Since then, it has been continuously improved and refined to ensure a smooth and seamless experience for developers and data enthusiasts alike.
+
 # Why Novaxis?
 
 Novaxis was created with simplicity and ease of use in mind. Its straightforward and clean syntax allows users to quickly define and organize data in a natural and intuitive way. Whether you are managing configurations for applications, specifying data structures, or describing complex settings, Novaxis provides an efficient and user-friendly solution.
