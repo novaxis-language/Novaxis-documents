@@ -10,11 +10,11 @@ A variable in Novaxis is declared using the following syntax:
 name ? Datatype = value
 ```
 Let's go through each part of the variable declaration:
-- **```name```**: This is the name of the variable. It can start with any character and can contain letters (A-Z or a-z), numbers (0-9), and underscores (_). The name should be chosen carefully to represent the data it holds.
-- **```?```**: This is an optional symbol that indicates that the variable has a datatype. If present, the datatype field must follow.
-- **```Datatype```**: This field specifies the datatype of the variable, Novaxis supports various datatypes.
-- **```=```**: This symbol indicates the assignment of a value to the variable. It is required if the variable has a datatype.
-- **```value```**: The value assigned to the variable. The value can be a number, string, list, boolean, or null, depending on the datatype.
+- **`name`**: This is the name of the variable. It can start with any character and can contain letters (A-Z or a-z), numbers (0-9), and underscores (_). The name should be chosen carefully to represent the data it holds.
+- **`?`**: This is an optional symbol that indicates that the variable has a datatype. If present, the datatype field must follow.
+- **`Datatype```**: This field specifies the datatype of the variable, Novaxis supports various datatypes.
+- **`=`**: This symbol indicates the assignment of a value to the variable. It is required if the variable has a datatype.
+- **`value`**: The value assigned to the variable. The value can be a number, string, list, boolean, or null, depending on the datatype.
 
 ## Variable Declaration Methods in Novaxis
 
