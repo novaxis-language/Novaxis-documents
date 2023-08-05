@@ -29,6 +29,4 @@ Happy coding with Novaxis! 🚀
 
 ---
 
-Copyright © 2023 Novaxis
-
-This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
+Copyright © 2023 Novaxis.
