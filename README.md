@@ -17,6 +17,10 @@ Welcome to the Novaxis Documentation repository! Here, you'll find detailed and 
 
 This repository is licensed under the [MIT License](LICENSE).
 
+## Feature Requests and Feedback
+
+Have an idea, feature request, or feedback for Novaxis? Visit our [Canny board](https://novaxis-language.canny.io/novaxis) to submit and vote on ideas, or to leave your feedback.
+
 ---
 
 Ready to dive into the world of Novaxis? Let's get started! If you have any questions or need assistance, feel free to reach out.
