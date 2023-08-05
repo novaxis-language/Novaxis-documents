@@ -21,3 +21,5 @@ Person ? String
 - Contextual Datatype: The properties declared inside the Classbox have a specific contextual data type, which provides flexibility in defining properties for a specific subset of the class.
 - Convenient Switching: Classbox simplifies the process of changing the data type for a certain set of properties, making the code more concise and readable.
 - Improved Organization: By using Classbox, you can keep related properties together, making the codebase more organized and easier to maintain.
+
+[Next page](document-008.md) | [Previous page](document-006.md)
