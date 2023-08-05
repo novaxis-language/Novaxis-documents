@@ -47,3 +47,5 @@ The null or none datatype in Novaxis represents the absence of a value. It is of
 ## Conclusion
 
 Understanding the different datatypes available in Novaxis is essential for effectively working with data in your programs. Whether you are dealing with text, numbers, boolean values, or lists, Novaxis provides a simple and intuitive syntax to handle various types of data. By leveraging these datatypes, you can create powerful and flexible applications in Novaxis.
+
+[Next page](document-004.md) | [Previous page](document-002.md)
