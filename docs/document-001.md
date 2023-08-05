@@ -43,3 +43,5 @@ greeting ? string = "Hello, {person.name}! You are {person.age} years old."
 ## Community and Support
 
 If you have any questions, feedback, or need assistance, feel free to reach out on our official forums or GitHub repository.
+
+[Next page](document-002.md)
