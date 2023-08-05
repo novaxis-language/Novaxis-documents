@@ -3,15 +3,15 @@
 Welcome to the Novaxis Documentation repository! Here, you'll find detailed and user-friendly documentation for the Novaxis programming language. Whether you're a beginner exploring the language or an experienced user looking for specific information, this documentation will provide you with the insights you need to effectively use Novaxis.
 
 ## Table of content
-- [Introduction](doc/document-001.md)
-- [Variables in Novaxis](doc/document-002.md)
-- [Datatypes in Novaxis](doc/document-003.md)
-- [Classes in Novaxis](doc/document-004.md)
-- [Comments in Novaxis](doc/document-005.md)
-- [Classes inheritance](doc/document-006.md)
-- [Classbox in Novaxis](doc/document-007.md)
-- [Interpolation in Novaxis](doc/document-008.md)
-- [Escape Sequences in Novaxis](doc/document-009.md)
+- [Introduction](docs/document-001.md)
+- [Variables in Novaxis](docs/document-002.md)
+- [Datatypes in Novaxis](docs/document-003.md)
+- [Classes in Novaxis](docs/document-004.md)
+- [Comments in Novaxis](docs/document-005.md)
+- [Classes inheritance](docs/document-006.md)
+- [Classbox in Novaxis](docs/document-007.md)
+- [Interpolation in Novaxis](docs/document-008.md)
+- [Escape Sequences in Novaxis](docs/document-009.md)
 
 ## License
 
