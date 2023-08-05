@@ -41,3 +41,5 @@ Server
 # Conclusion
 
 Classes are a fundamental feature in Novaxis that enables you to model entities, create reusable components, and build sophisticated data structures. By using classes, you can write more structured and organized code, making your applications easier to understand and maintain. Novaxis offers a flexible and intuitive class declaration syntax that allows you to define classes quickly and efficiently, making it a suitable choice for various development projects.
+
+[Next page](document-005.md) | [Previous page](document-003.md)
