@@ -23,3 +23,5 @@ Escape sequences in Novaxis are useful when you need to include characters that 
 By using escape sequences, you can enhance the flexibility and expressiveness of your Novaxis code, making it easier to handle complex data and improve the readability of your scripts.
 
 Remember that any escape sequence in Novaxis must begin with a backslash (\), and the combination of the backslash and the subsequent characters will define the representation of the escape sequence. Utilize escape sequences whenever necessary to handle special characters effectively in your Novaxis scripts.
+
+[Previous page](document-008.md) | [First page](document-001.md)
