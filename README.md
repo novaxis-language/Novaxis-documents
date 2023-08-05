@@ -15,7 +15,7 @@ Welcome to the Novaxis Documentation repository! Here, you'll find detailed and 
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE).
+This repository is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](LICENSE).
 
 ## Feature Requests and Feedback
 
@@ -26,3 +26,9 @@ Have an idea, feature request, or feedback for Novaxis? Visit our [Canny board](
 Ready to dive into the world of Novaxis? Let's get started! If you have any questions or need assistance, feel free to reach out.
 
 Happy coding with Novaxis! 🚀
+
+---
+
+Copyright © 2023 Novaxis
+
+This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License.
