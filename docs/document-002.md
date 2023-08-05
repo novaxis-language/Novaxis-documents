@@ -49,3 +49,5 @@ Both methods offer the same functionality, and you can choose the one that suits
 ## Conclusion
 
 Variables are an essential concept in Novaxis and serve as the building blocks for writing dynamic and flexible programs. By understanding the variable declaration syntax and the different datatypes, you can effectively work with data in your Novaxis code. Remember to adhere to the naming rules for variables to ensure smooth and error-free code execution. Happy coding in Novaxis!
+
+[Next page](document-003.md) | [Previous page](document-001.md)
