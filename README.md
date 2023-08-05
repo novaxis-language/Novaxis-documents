@@ -15,7 +15,7 @@ Welcome to the Novaxis Documentation repository! Here, you'll find detailed and 
 
 ## License
 
-This repository is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International License](LICENSE).
+This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0)](LICENSE).
 
 ## Feature Requests and Feedback
 
@@ -31,4 +31,4 @@ Happy coding with Novaxis! 🚀
 
 Copyright © 2023 Novaxis
 
-This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License.
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
