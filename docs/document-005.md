@@ -27,4 +27,4 @@ In the example above, we have two variable declarations with comments and one bl
 
 Remember to use comments wisely and keep them up-to-date as the code evolves. Well-commented code can make a significant difference in the maintainability and readability of your Novaxis programs.
 
-[Next page](document-006.md) | [Previous page](document-006.md)
+[Next page](document-006.md) | [Previous page](document-004.md)
