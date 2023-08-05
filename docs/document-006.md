@@ -46,3 +46,5 @@ In this example, we have a base class **\`Server\`** with properties **\`ip\`** 
 - **Hierarchical Structure**: Inheritance creates a hierarchical structure of classes, making the code more organized and easier to understand.
 
 By utilizing class inheritance in Novaxis, you can create a well-structured and flexible codebase that is easy to maintain and expand as your project evolves.
+
+[Next page](document-007.md) | [Previous page](document-005.md)
