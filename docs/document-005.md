@@ -26,3 +26,5 @@ In the example above, we have two variable declarations with comments and one bl
 - **Future Reference**: Comments serve as a reference for future modifications or enhancements to the code.
 
 Remember to use comments wisely and keep them up-to-date as the code evolves. Well-commented code can make a significant difference in the maintainability and readability of your Novaxis programs.
+
+[Next page](document-006.md) | [Previous page](document-006.md)
