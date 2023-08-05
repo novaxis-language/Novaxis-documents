@@ -47,3 +47,5 @@ Person
 ## Conclusion
 
 Interpolation in Novaxis provides a convenient way to dynamically include variable values within text, making your data structures more flexible and expressive. By leveraging the power of interpolation, you can create dynamic Novaxis scripts for a wide range of datatypes and values, enhancing the readability and usability of your code. Embrace the versatility of interpolation and leverage its potential to tailor your Novaxis programs to suit your specific needs.
+
+[Next page](document-009.md) | [Previous page](document-007.md)
