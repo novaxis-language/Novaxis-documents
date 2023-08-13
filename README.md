@@ -10,7 +10,7 @@ Welcome to the Novaxis Documentation repository! Here, you'll find detailed and 
 - [Comments in Novaxis](docs/document-005.md)
 - [Classes inheritance](docs/document-006.md)
 - [Classbox in Novaxis](docs/document-007.md)
-- [Interpolation in Novaxis](docs/document-008.md)
+- [Interpolation and Mathematical operations in Novaxis](docs/document-008.md)
 - [Escape Sequences in Novaxis](docs/document-009.md)
 
 ## License
