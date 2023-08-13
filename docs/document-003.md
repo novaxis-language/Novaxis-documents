@@ -29,7 +29,7 @@ Booleans are data types with only two possible values: true or false. They are u
 Lists in Novaxis are ordered collections of values. They can contain elements of different datatypes and allow you to group related data together. Lists are declared using square brackets and separating elements with commas. For example:
 	```Python
 	numbers ? List = [1, 2, 3, 4, 5]
-	fruits ? List = ['apple', 'banana', 'orange']
+	fruits ? List = [apple, banana, orange]
  	```
  5. **Null** or **None**:
 The null or none datatype in Novaxis represents the absence of a value. It is often used to indicate that a variable does not have any meaningful data. To declare a variable with null value, simply use the **\`none\`** keyword (or **\`null\`**):
@@ -43,7 +43,15 @@ The null or none datatype in Novaxis represents the absence of a value. It is of
 	```PHP
 	empty_value ? Null = null
  	```
-
+ 6. **Byte**:
+Introducing the Byte data type in Novaxis, designed to handle data sizes, hex values, and binary representations:
+	```PHP
+ 	name ? Byte = 10TB // Output: 10995116277760 (To bytes)
+ 	name ? Byte = 2KB // Output: 2048 (To bytes)
+ 	name ? Byte = 0x35 // Output: 53 (Hex to decimal)
+ 	name ? Byte = 0b1001 // Output: 9 (Binary to decimal)
+ 	```
+ 	> Note: The current available data sizes are from **"B"** to **"YB"** (B, KB, MB, GB, TB, PB, EB, ZB, YB).
 ## Conclusion
 
 Understanding the different datatypes available in Novaxis is essential for effectively working with data in your programs. Whether you are dealing with text, numbers, boolean values, or lists, Novaxis provides a simple and intuitive syntax to handle various types of data. By leveraging these datatypes, you can create powerful and flexible applications in Novaxis.
