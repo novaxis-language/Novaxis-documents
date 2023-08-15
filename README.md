@@ -1,4 +1,4 @@
-# Novaxis document
+# Novaxis documents
 
 Welcome to the Novaxis Documentation repository! Here, you'll find detailed and user-friendly documentation for the Novaxis programming language. Whether you're a beginner exploring the language or an experienced user looking for specific information, this documentation will provide you with the insights you need to effectively use Novaxis.
 
